@@ -4,7 +4,7 @@ In this project, we explored the effect of the time value of money on the exploi
 
 This project is motivated by a case study of Obama's fundraising campaign (https://www.optimizely.com/insights/blog/how-obama-raised-60-million-by-running-a-simple-experiment/). 
 
-We simulated 10,000 rounds of pulls 100 times for each algorithm and took the average to obtain the following results results. 
+We simulated 10,000 rounds of pulls 100 times for each algorithm and took the average to obtain the following results. 
 
 ### Theoretical Maximum Reward
 
