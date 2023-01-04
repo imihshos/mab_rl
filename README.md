@@ -4,8 +4,8 @@ In this project, we explored the effect of the time value of money on the exploi
 
 This project is motivated by a case study of Obama's fundraising campaign (https://www.optimizely.com/insights/blog/how-obama-raised-60-million-by-running-a-simple-experiment/). 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Discount Factor| Best Ad        | Reward  |
+| -------------  |:-------------: | -----:  |
+| col 3 is       | right-aligned  | $1600   |
+| col 2 is       | centered       |   $12   |
+| zebra stripes  | are neat       |    $1   |
